@@ -1,4 +1,4 @@
-nclude "sort.h"
+#include "sort.h"
 
 void merge_subarr(int *subarr, int *buff, size_t front, size_t mid,
 		size_t back);
